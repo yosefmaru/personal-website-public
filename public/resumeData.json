@@ -1,0 +1,138 @@
+{
+  "main": {
+    "name":"Yosef Bedaso",
+    "occupation":"(Your Occupation Here)",
+    "description":"I am an AWS Certified Cloud Engineer with a computational science background currently located in Seattle, WA",
+    "image":"profilepic.jpg",
+    "bio":"I am a Cloud Engineer primarily using AWS. I also do a bit of coding and web-app developing for mini projects. My background is computational science (MSc in theoretical chemistry and BSc in bio-physics). Outside of work, I am a sound technician at a local church and tutor high-school kids on different subjects. I am passionate for self-learning new skills and knowledge in any field or category. Sports and Video Games are my to go options when taking a break from work  or responsibilities in general.\n If you are interested in knowing more about my skills and experience, you can click the link below to download my Resume.",
+    "contactmessage":"If you have inquiries or if you are interested in contacting me, you can fill out the form below and I will reply to you ASAP.",
+    "email": "youremailhere@gmail.com",
+    "phone": "000-000-0000",
+    "address":{
+      "street":"(Your Street)",
+      "city":"(Your City)",
+      "state":"(Your State)",
+      "zip": "(Your Zip/Postal Code)"
+    },
+    "website": "http://www.yosefbedaso.com",
+    "resumedownload":"https://to-share-docs.s3-us-west-2.amazonaws.com/Resume_bedaso.pdf",
+    "social":[
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"github",
+        "url":"http://github.com/yosefmaru",
+        "className":"fa fa-github"
+      },
+      {
+        "name":"skype",
+        "url":"http://skype.com",
+        "className":"fa fa-skype"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "education":[
+      {
+        "school":"University of Washington, Seattle",
+        "degree":"MSc. Chemistry",
+        "graduated":"March 2020",
+        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+      },
+      {
+        "school":"University of Colorado, Denver",
+        "degree":"BSc. Bio-Physics",
+        "graduated":"May 2016",
+        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+      }
+    ],
+    "work":[
+      {
+        "company":"University of Washington, Seattle",
+        "title":"Teaching Assistant",
+        "years":"Sep 2018 - Mar 2020",
+        "description":"Worked as a TA for general chemistry courses. Run Lab and Quiz section sessions with 24 - 48 students."
+      },
+      {
+        "company":"University of Washington, Seattle",
+        "title":"Post-Bac Fellow",
+        "years":"June 2016 - July 2018",
+        "description":"Worked on a research project (In-Silico evolution of biochemical reaction networks). Developed a C++ library python binding for macOS/Windows environments and worked on  distribution of the python binding module on pip package installer. Integrated the module into an existing Windows software as a plug-in feature and built a documentation on github."
+      },
+      {
+        "company":"CelGene",
+        "title":"Summer Intern",
+        "years":"June 2017 - Aug 2017",
+        "description":"Worked on a summer research project (Reconstruction of genome scale metabolic model for multiple myeloma cancer cells). Analyzed clinical and -omics data."
+      },
+      {
+        "company":"Anschutz Medical Campus",
+        "title":"Student Administrative Assistant",
+        "years":"June 2015 - Jun 2016",
+        "description":"Travel expense and Procurement reconciliation. General administrative tasks: room booking, managing office supplies, tasks as assigned etc. "
+      }
+    ],
+    "skills":[
+      {
+        "name":"Python",
+        "level":"80%"
+      },
+      {
+        "name":"Git",
+        "level":"60%"
+      },
+      {
+        "name":"AWS",
+        "level":"70%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"50%"
+      },
+      {
+        "name":"CSS",
+        "level":"30%"
+      },
+      {
+        "name":"HTML5",
+        "level":"80%"
+      },
+      {
+        "name":"DynamoDB",
+        "level":"50%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Resume Website",
+        "category":"A React based resume website template",
+        "image":"resume-website.jpg",
+        "url":"http://www.yosefbedaso.com"
+      },
+      {
+        "title":"Verse Sender",
+        "category":"A React based web-app provisioned on AWS",
+        "image":"verse-sender.jpg",
+        "url":"http://www.yosefbedaso.com"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+        "user":"Kareem Abdul Jabbar"
+      },
+      {
+        "text":"That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user":"Steve Wozniak... impersonator"
+      }
+    ]
+  }
+}
